@@ -1,5 +1,4 @@
-# Portfolio
-# 🚀 Mi Portfolio de Desarrollo
+#Mi Portfolio de Desarrollo
 
 ¡Hola! Soy **Maite Castillo**, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 En este repositorio comparto los proyectos que he ido creando durante mi formación técnica.
